@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Gilroy-Light';
+    font-weight: 300;
+    src: url('../fonts/Gilroy-Light.eot'); /* IE 9 Compatibility Mode */
+    src: url('../fonts/Gilroy-Light.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+    url('../fonts/Gilroy-Light.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+    url('../fonts/Gilroy-Light.ttf') format('truetype');/* Safari, Android, iOS */
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    font-weight: 400;
+    font-display: swap;
+    src: url('../fonts/Gilroy-Regular.eot'); /* IE 9 Compatibility Mode */
+    src: url('../fonts/Gilroy-Regular.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+    url('../fonts/Gilroy-Regular.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+    url('../fonts/Gilroy-Regular.ttf') format('truetype');/* Safari, Android, iOS */
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    font-weight: 500;
+    font-display: swap;
+    src: url('../fonts/Gilroy-Medium.eot'); /* IE 9 Compatibility Mode */
+    src: url('../fonts/Gilroy-Medium.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+    url('../fonts/Gilroy-Medium.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+    url('../fonts/Gilroy-Medium.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    font-weight: 600;
+    font-display: swap;
+    src: url('../fonts/Gilroy-SemiBold.eot'); /* IE 9 Compatibility Mode */
+    src: url('../fonts/Gilroy-SemiBold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+    url('../fonts/Gilroy-SemiBold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+    url('../fonts/Gilroy-SemiBold.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face {
+    font-family: 'BerlingskeSerif';
+    font-weight: 400;
+    font-display: swap;
+    src: url('../fonts/BerlingskeSerif-Regular.eot'); /* IE 9 Compatibility Mode */
+    src: url('../fonts/BerlingskeSerif-Regular.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+    url('../fonts/BerlingskeSerif-Regular.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+    url('../fonts/BerlingskeSerif-Regular.ttf') format('truetype');/* Safari, Android, iOS */
+}
